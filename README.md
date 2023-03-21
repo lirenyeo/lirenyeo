@@ -1,16 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirenyeo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me:
-
-<a href="https://stackoverflow.com/users/5435505/liren-yeo"><img style="margin-right: 16px;" align="left" alt="Stackoverflow" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" /></a>
-
-<a href="#"><img style="margin-right: 16px;" align="left" alt="Linkedin" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-
-<br/>
-<br/>
-
-### Languages and Tools:
-
 <img style="margin-right: 12px;" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin-right: 12px;" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="margin-right: 12px;" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
